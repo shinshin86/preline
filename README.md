@@ -36,7 +36,7 @@ First, you need to make sure that you have a working <a href="https://tailwindcs
   ]
 }</code></pre>
 
-3. Include the JavaScript <code><script></code> that powers the interactive elements near the end of your <code><body></code> tag:
+3. Include the JavaScript <code><script></code> that powers the interactive elements near the end of your `<body>` tag:
 
 <pre><code><script src="./node_modules/preline/dist/hs-ui.bundle.js"></script></code></pre>
 
